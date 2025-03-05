@@ -48,3 +48,5 @@ Avvia l'applicazione in modalità sviluppo:
 🔹 Aggiungere un backend per salvare i preferiti su database
 🔹 Implementare una visualizzazione su Google Maps
 🔹 Migliorare il design con TailwindCSS o Styled Components
+
+Provalo dal link: https://card-place-tommy.netlify.app/
